@@ -1,25 +1,21 @@
 # ChatMe_App
 #reactnative #javascript #chatgpt
 
-Useful Websites:
+**Useful Websites:**
 
-React Native - https://reactnative.dev/
+*React Native - https://reactnative.dev/*
 
-APIs - https://reactnative.dev/docs/accessibilityinfo
+*APIs - https://reactnative.dev/docs/accessibilityinfo*
 
-Expo - https://expo.dev/
+*Expo - https://expo.dev/*
 
-React Native Navigation - https://reactnavigation.org/docs/hello-react-navigation
+*React Native Navigation - https://reactnavigation.org/docs/hello-react-navigation*
 
-React Native Elements - https://reactnativeelements.com/docs
+*React Native Elements - https://reactnativeelements.com/docs*
 
+**I learn react native by myself and performed code correction operations on the code written in Homescreen.js page via ChatGPT!**
 
-
-
-
-I learn react native by myself and performed code correction operations on the code written in Homescreen.js page via ChatGPT!
-
-Here below you can see step by step: 
+*Here below you can see step by step:* 
 
 import React, { Component } from "react";
 import {
