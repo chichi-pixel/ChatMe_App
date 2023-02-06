@@ -58,6 +58,3 @@ export default class HomeScreen extends Component {
     render() {
         return this.state.isAuthenticated ? this.renderUsers() : this.renderLogin();
       }
-
-
-
